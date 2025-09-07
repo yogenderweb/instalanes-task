@@ -14,7 +14,7 @@ const Navbar = () => {
     <div className={styles.navber}>
         <div className={styles.logocard}>
             <Typography variant="h5" sx={{ fontSize: '24px', color: '#333', display: 'flex', gap: '3px',}}>
-                <Image src="/images/logo.svg" width={30} height={30} alt="Logo"  
+                <Image src="/images/logo.svg" width={28} height={28} alt="Logo"  
                />  
               Instalanes
             </Typography>
