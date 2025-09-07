@@ -10,9 +10,9 @@ const Header = () => {
     useEffect(() => {
       const handleScroll = () => {
         if (window.scrollY > 0) {
-          setIsFixed(true);
+          setIsFixed(true); 
         } else {
-          setIsFixed(false);
+          setIsFixed(false); 
         }
       };
 

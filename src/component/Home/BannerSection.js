@@ -29,7 +29,7 @@ const BannerSection = () => {
         
           {/* <HeadingH1 Title={'Instalanes TMS Transport Management System'} /> */}
           <Typography variant="h3" 
-          sx={{ maxWidth: '700px', margin: '0px auto', mt: 0, mb: 4, fontSize: {xs: "26px", sm: "30px",  md: "50px",}, fontWeight: "600", color: "#121212ff",textAlign: "center", }}>
+          sx={{ maxWidth: '710px', margin: '0px auto', mt: 0, mb: 4, fontSize: {xs: "26px", sm: "30px",  md: "50px",}, fontWeight: "600", color: "#121212ff",textAlign: "center", }}>
             Instalanes TMS Transport Management System
           </Typography>
 
